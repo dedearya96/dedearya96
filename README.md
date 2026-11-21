@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://official.trafaline.com">
+  <a href="https://dedearya96.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:arya.widnyana96@gmail.com">
@@ -164,7 +164,7 @@ I'm always open to interesting projects, collaboration, and new opportunities.
   <a href="https://github.com/dedearya96">
     <img src="https://img.shields.io/badge/GitHub-dedearya96-1E293B?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://official.trafaline.com">
+  <a href="https://dedearya96.github.io/">
     <img src="https://img.shields.io/badge/Website-Portfolio-2563EB?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
